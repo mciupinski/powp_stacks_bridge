@@ -2,8 +2,7 @@ package edu.kis.vh.stacks;
 
 public class StackHanoi extends Stack {
 
-public static final int _0 = 0;
-int totalRejected = _0;
+int totalRejected = 0;
 
 	public int reportRejected() {
 	return totalRejected;
