@@ -30,5 +30,5 @@ public class stack {
 							return -1;
 						return ITEMS[total--];
 					}
-				
+				//comment
 }
